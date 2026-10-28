@@ -37,6 +37,8 @@ Introduce the pharmaceutical business background and the university-appointed in
 
 ## Existing website
 
+[Annotated layout preview — text and image positions](https://xuliangweiming.github.io/portfolio-framework.html)
+
 [Personal website](https://xuliangweiming.github.io/) · [Website source](https://github.com/xuliangweiming/xuliangweiming.github.io)
 
 The website is retained while this additional portfolio structure is developed.
