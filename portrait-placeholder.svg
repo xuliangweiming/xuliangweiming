@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 900" role="img" aria-labelledby="title desc">
+<title id="title">PERSONAL PORTRAIT placeholder</title>
+<desc id="desc">个人肖像位置。布局占位示意，尚未上传真实图片。</desc>
+<rect width="720" height="900" fill="#eef1eb"/>
+<rect x="24" y="24" width="672" height="852" rx="6" fill="none" stroke="#aebbad" stroke-width="2" stroke-dasharray="9 9"/>
+<circle cx="360" cy="288" r="40" fill="#dee6dc"/>
+<text x="360" y="298" text-anchor="middle" fill="#355743" font-family="Arial,sans-serif" font-size="28">01</text>
+<text x="360" y="450" text-anchor="middle" fill="#355743" font-family="Arial,sans-serif" font-size="25" letter-spacing="2">PERSONAL PORTRAIT</text>
+<text x="360" y="504" text-anchor="middle" fill="#4d6253" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC',sans-serif" font-size="25">个人肖像位置</text>
+<text x="360" y="555" text-anchor="middle" fill="#637466" font-family="Arial,sans-serif" font-size="19">4:5 · 800 × 1000 px</text>
+<text x="360" y="838" text-anchor="middle" fill="#637466" font-family="Arial,sans-serif" font-size="17">LAYOUT PLACEHOLDER · NO PERSONAL IMAGE ADDED</text>
+</svg>
